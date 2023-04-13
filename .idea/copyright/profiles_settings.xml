@@ -1,0 +1,9 @@
+<component name="CopyrightManager">
+  <settings>
+    <LanguageOptions name="JAVA">
+      <option name="fileTypeOverride" value="3" />
+      <option name="addBlankBefore" value="true" />
+      <option name="fileLocation" value="2" />
+    </LanguageOptions>
+  </settings>
+</component>
